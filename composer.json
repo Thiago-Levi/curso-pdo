@@ -1,0 +1,16 @@
+{
+    "name": "thiago/curso-pdo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Thiago\\CursoPdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago Levi",
+            "email": "thiago.levi@outlook.com"
+        }
+    ],
+    "require": {}
+}

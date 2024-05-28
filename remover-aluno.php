@@ -1,6 +1,5 @@
 <?php 
 require_once 'vendor/autoload.php';
-use Thiago\CursoPdo\Model\Student;
 use Thiago\CursoPdo\Infrastructure\Persistence\ConnectionCreator;
 
 $pdo = ConnectionCreator::createConnection();
